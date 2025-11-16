@@ -3,6 +3,13 @@ export async function handler(event, context) {
     const MAX_WHATSAPP = 3;
 
     const encodedLinks = [
+      "aHR0cHM6Ly93YS5tZS85MTYzMDAwMTkwMjQ=",
+      "aHR0cHM6Ly93YS5tZS85MTg2Njg4Njc1MjE=",
+      "aHR0cHM6Ly93YS5tZS85MTc5NzkwOTUwMTM=",
+      "aHR0cHM6Ly93YS5tZS85MTkyMDIxMDk1MTU=",
+      "aHR0cHM6Ly93YS5tZS85MTcyNjE4ODM4MTA=",
+      "aHR0cHM6Ly93YS5tZS85MTkzNjU1ODA3MTc=",
+
 
       "aHR0cHM6Ly93YS5tZS85MTcwOTMwNDExMDU=",
       "aHR0cHM6Ly93YS5tZS85MTkwMTI2NTM5NDc=",
